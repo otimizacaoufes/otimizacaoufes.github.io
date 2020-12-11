@@ -27,7 +27,7 @@
 - Na barra “Conectar ao servidor”, digite **sftp://USUARIO@ENDERECO:25000/home/USUARIO** onde ENDERECO varia se o acesso é interno ou externo à UFES.
 - Clique em “Conectar”
 
-#### Observações importantes:
+### Observações importantes:
 
 - Quando terminar de transferir seus arquivos, DESMONTE a pasta remota clicando na seta no menu lateral;
 - A transferência de muitos arquivos em modo gráfico é lenta. Se for transferir muitos arquivos, considere compactá-los e transferir um único arquivo.
@@ -44,6 +44,17 @@ comando que você quer rodar:
 (não esqueça do & no fim). Isso executará o comando MEU_PROGRAMA em modo não iterativo e criará o arquivo **nohup.out**, que receberá 
 a saída do seu programa. Você pode então fechar a sessão ssh que seu programa continuará rodando. Ao logar-se novamente, você poderá ver se ele 
 já acabou, por exemplo, através do comando **htop**.
+
+#### Alguns comandos úteis do htop
+
+Dentro do **htop**,
+- **c**: seleciona um ou mais processos e seus processos filhos
+- **k -> enter**: encerra os processos selecionados
+- **U** (maiúsculo): deseleciona processos
+- **t**: exibe processos em árvore
+- **u** (minúsculo): filtra processos de um usuário específico a partir de uma lista
+- **q**: sai do htop
+- **h**: exibe ajuda
 
 > **O grupo de otimização, que integra e coordena o projeto, analisará a abertura de novas contas.**
 
