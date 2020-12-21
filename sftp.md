@@ -6,13 +6,13 @@ description: ""
 permalink: /sftp
 ---
 
-# Transferências de arquivos pelo ambiante gráfico do linux
+# Transferências de arquivos pelo ambiante gráfico do GNU/Linux
 
-Além da transferência via terminal com o comando **sftp**, você pode abrir sua pasta remota no gerenciador de arquivos do linux em modo gráfico. Os passos são os seguintes:
+Além da transferência via terminal com o comando **sftp**, você pode abrir sua pasta remota no gerenciador de arquivos do GNU/Linux em modo gráfico. Os passos são os seguintes:
 
-- Abra o gerenciador de Arquivos (nautilus) do seu Ubuntu (deve funcionar para outras distribuições Linux)
+- Abra o gerenciador de Arquivos (nautilus) do seu Ubuntu (deve funcionar para outras distribuições GNU/Linux)
 - Clique em “Outros locais”
-- Na barra “Conectar ao servidor”, digite **sftp://USUARIO@ENDERECO:25000/home/USUARIO** onde ENDERECO varia se o acesso é interno ou externo à UFES.
+- Na barra “Conectar ao servidor”, digite **sftp://USUARIO@ENDERECO:25000/home/USUARIO** onde ENDERECO varia se o acesso é interno ou externo à UFES (veja a seção "Acesso ao servidor").
 - Clique em “Conectar”
 
 ### Observações importantes:
