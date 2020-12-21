@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transferindo arquivos para o servidor
-nav_order: 1
+nav_order: 4
 description: ""
 permalink: /sftp
 ---
@@ -18,6 +18,4 @@ Além da transferência via terminal com o comando **sftp**, você pode abrir su
 ### Observações importantes:
 
 - Quando terminar de transferir seus arquivos, DESMONTE a pasta remota clicando na seta no menu lateral;
-- A transferência de muitos arquivos em modo gráfico é lenta. Se for transferir muitos arquivos, considere compactá-los e transferir um único arquivo.
-Depois descompacte-o VIA TERMINAL DIRETO NA PASTA REMOTA utilizando comandos como tar ou gzip/gunzip (execute **compactar** para ajuda).
-**Evite o utilitário de descompactação do modo gráfico do seu linux direto na pasta remota, é muito lento.**
+- A transferência de muitos arquivos em modo gráfico é lenta. Se for transferir muitos arquivos, considere compactá-los e transferir um único arquivo. Depois descompacte-o VIA TERMINAL DIRETO NA PASTA REMOTA utilizando comandos como tar ou gzip/gunzip (execute **compactar** para ajuda). **Evite o utilitário de descompactação do modo gráfico do seu linux direto na pasta remota, é muito lento.**

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Executando seus testes
-nav_order: 1
+nav_order: 3
 description: ""
 permalink: /executar
 ---
@@ -28,3 +28,7 @@ Dentro do **htop**,
 - u (minúsculo): filtra processos de um usuário específico a partir de uma lista
 - q: sai do htop
 - h: exibe ajuda
+
+## Usuários de Windows
+
+É recomendável aos usuários do Windows que queiram usar o servidor, um terminal com mais funcionalidades do que o padrão do Windows. Um exemplo que imita o terminal do GNU/Linux, disponibilizado pela própria Microsoft gratuitamente, pode ser acessado [neste link](https://aka.ms/terminal).
