@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Executar testes
+title: Executando seus testes
 nav_order: 1
 description: ""
 permalink: /executar
@@ -16,3 +16,15 @@ comando que você quer rodar:
 (não esqueça do & no fim). Isso executará o comando MEU_PROGRAMA em modo não iterativo e criará o arquivo **nohup.out**, que receberá 
 a saída do seu programa. Você pode então fechar a sessão ssh que seu programa continuará rodando. Ao logar-se novamente, você poderá ver se ele 
 já acabou, por exemplo, através do comando **htop**.
+
+### Alguns comandos úteis do htop ###
+
+Dentro do **htop**,
+
+- c: seleciona um ou mais processos e seus processos filhos
+- k -> enter: encerra os processos selecionados
+- U (maiúsculo): deseleciona processos
+- t: exibe processos em árvore
+- u (minúsculo): filtra processos de um usuário específico a partir de uma lista
+- q: sai do htop
+- h: exibe ajuda

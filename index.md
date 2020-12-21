@@ -22,16 +22,7 @@ permalink: /
 - 1 processador Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz 10 núcleos (20 threads), 160Gb RAM
 - Sistema GNU Linux Ubuntu
 
-**IMPORTANTE**: mude sua senha no primeiro acesso. Veja [como fazer isso aqui.](https://otimizacaoufes.github.io/cmd).
-
-### Abertura de contas
-
-> **O grupo de otimização, que integra e coordena o projeto, analisará a abertura de novas contas.**
-
-> **Este recurso é de uso prioritário para pesquisas do grupo que integra o projeto que originou o recurso. 
-Porém outros grupos/pesquisadores podem utilizá-lo a depender da disponibilidade da máquina.**
-
-### Por favor, cite o apoio em suas pesquisas
+## Por favor, cite o apoio em suas pesquisas
 
 > **Se utilizar o equipamento em sua pesquisa, considere citar o apoio da FAPES nos trabalhos publicados (mais informações ao logar-se):**
 - **FAPES 116/2019.**
