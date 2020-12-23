@@ -10,17 +10,6 @@ permalink: /software
 
 Alguns dos programas/pacotes instalados e disponíveis para uso:
 
-## compiladores GNU Fortran, C, C++; python 3
-
-## bibliotecas LAPACK e (Open)BLAS (liblapack-dev e libopenblas-dev)
-
-## Octave
-
-Entre no Octave executando
-> octave
-
-Caso necessite de algum pacote não instalado, contatar **leonardo.secchin@ufes.br**.
-
 ## Julia
 
 Uma versão estável do Julia está pré-instalada para uso por todos os usuários.
@@ -38,6 +27,19 @@ Links úteis sobre Julia:
 - Lista de pacotes: [https://julialang.org/packages](https://julialang.org/packages/)
 - Documentação: [https://docs.julialang.org](https://docs.julialang.org/)
 - Instalações pré-compiladas para seu computador pessoal (incluindo Windows): [https://julialang.org/downloads](https://julialang.org/downloads/)
+
+## Octave
+
+Entre no Octave executando
+> octave
+
+Caso necessite de algum pacote não instalado, contatar **leonardo.secchin@ufes.br**.
+
+## Alguns pacotes
+
+- compiladores GNU Fortran, C, C++
+- python 3
+- bibliotecas LAPACK e (Open)BLAS (liblapack-dev e libopenblas-dev)
 
 ## Outros softwares
 
