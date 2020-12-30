@@ -18,7 +18,7 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 - Acesso interno à UFES:
 > ssh USUARIO@172.20.110.9 -p 25000
 
-### Configuuração da máquina
+### Configuração da máquina
 
 - 1 processador Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz 10 núcleos (20 threads), 160Gb RAM
 - Sistema GNU/Linux Ubuntu Server
