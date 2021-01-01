@@ -15,7 +15,9 @@ Alguns dos programas/pacotes instalados e disponíveis para uso:
 Uma versão estável do Julia está pré-instalada para uso por todos os usuários.
 
 Entre no Julia executando
-> julia
+~~~
+julia
+~~~
 
 Nao é permitido aos usuários instalar pacotes dentro do Julia. Para tanto, solicitar.
 
@@ -31,7 +33,9 @@ Links úteis sobre Julia:
 ### Octave
 
 Entre no [Octave](https://www.gnu.org/software/octave) executando
-> octave
+~~~
+octave
+~~~
 
 Caso necessite de algum pacote não instalado, solicite.
 
@@ -45,7 +49,9 @@ Caso necessite de algum pacote não instalado, solicite.
 ### Outros softwares para otimização
 
 Veja outros softwares para otimização linear e não linear executando
-> softwares
+~~~
+softwares
+~~~
 
 ## Instalação de novos pacotes
 
