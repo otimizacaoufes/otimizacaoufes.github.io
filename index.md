@@ -13,10 +13,14 @@ permalink: /
 O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas, o **“optimization_server”**. O equipamento está disponível a outros pesquisadores, bem como aos estudantes de iniciação científica que possuam relação com o grupo.
 
 - Acesso externo à UFES:
->ssh USUARIO@externo.ceunes.ufes.br -p 25000
+~~~
+ssh USUARIO@externo.ceunes.ufes.br -p 25000
+~~~
 
 - Acesso interno à UFES:
-> ssh USUARIO@172.20.110.9 -p 25000
+~~~
+ssh USUARIO@172.20.110.9 -p 25000
+~~~
 
 ### Configuração da máquina
 
