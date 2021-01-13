@@ -21,6 +21,6 @@ Além da transferência via terminal com o comando **sftp**, você pode abrir su
 - A transferência de muitos arquivos em modo gráfico é lenta. Se for transferir muitos arquivos, considere compactá-los e transferir um único arquivo. Depois descompacte-o VIA TERMINAL DIRETO NA PASTA REMOTA utilizando comandos como tar ou gzip/gunzip (execute **compactar** para ajuda). **Evite o utilitário de descompactação do modo gráfico do seu linux direto na pasta remota, é muito lento.**
 
 
-# Transferências de arquivos pelo Windows
+## Transferências de arquivos pelo Windows
 
 Para transferência de arquivos pelo Windows, você pode instalar algum programa que suporte **stfp**.
