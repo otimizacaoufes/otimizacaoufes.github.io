@@ -6,7 +6,7 @@ description: ""
 permalink: /
 ---
 
-@@include[off.md](/off.md)
+{{md /off.md}}
 
 # Acesso ao servidor
 
