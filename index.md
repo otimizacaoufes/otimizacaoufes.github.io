@@ -8,7 +8,7 @@ permalink: /
 
 # Acesso ao servidor
 
-<!-- ## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO. Não há previsão para o retorno. -->
+## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO. Não há previsão para o retorno. Motivo: problemas nas instalações físicas do datacenter.
 
 O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas, o **“optimization_server”**. O equipamento está disponível a outros pesquisadores, bem como aos estudantes de iniciação científica que possuam relação com o grupo.
 
