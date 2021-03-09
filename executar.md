@@ -31,4 +31,4 @@ Dentro do **htop**,
 
 ## Usuários de Windows
 
-É recomendável aos usuários do Windows que queiram usar o servidor, um terminal com mais funcionalidades do que o padrão do Windows. Um exemplo que imita o terminal do GNU/Linux, disponibilizado pela própria Microsoft gratuitamente, pode ser acessado [neste link](https://aka.ms/terminal).
+É recomendável aos usuários do Windows que queiram usar o servidor, um terminal com mais funcionalidades do que o padrão do Windows. Um exemplo que imita o terminal do GNU/Linux pode ser acessado [neste link](https://cmder.net/).
