@@ -28,7 +28,7 @@ ssh USUARIO@172.20.110.9 -p 25000
 - 1 processador Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz 10 núcleos (20 threads), 160Gb RAM
 - Sistema GNU/Linux Ubuntu Server
 
-### Acesso sem digitar senha
+### Acesso sem digitar senha (GNU/Linux)
 
 É possível configurar o acesso à máquina pelo terminal sem a necessidade de digitar senha. Basta criar um par de chaves RSA público-privado e copiar o conteúdo da chave pública no servidor.
 
@@ -43,6 +43,10 @@ Dois arquivos serão criados na sua máquina: `id_rsa` (chave privada) e `id_rsa
 - Peça para exibir arquivos ocultos, e entre na pasta oculta `.ssh`. Caso não exista, crie-a;
 - Abra/Crie o arquivo `authorized_keys` e cole todo o conteúdo de `id_rsa.pub` em uma nova linha.
 - Se tudo deu certo, os próximos *logins* pelo terminal não pedirão senha.
+
+### Acesso pelo Windows
+
+Os usuários de Windows devem instalar um cliente ssh. No Windows 10, há um cliente disponível na lista de programas do sistema. Em outras versões é necessário instalar *softwares* de terceiros.
 
 ## Por favor, cite o apoio em suas pesquisas
 
