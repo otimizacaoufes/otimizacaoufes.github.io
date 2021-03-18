@@ -46,7 +46,7 @@ Dois arquivos serão criados na sua máquina: `id_rsa` (chave privada) e `id_rsa
 
 ### Acesso pelo Windows
 
-Os usuários de Windows devem instalar um cliente ssh. No Windows 10, há um cliente disponível na lista de programas do sistema. Em outras versões é necessário instalar *softwares* de terceiros.
+Os usuários de Windows devem instalar um cliente ssh. No Windows 10, há um cliente disponível na lista de programas do sistema. Em outras versões é necessário instalar *softwares* de terceiros. É recomendável um terminal com mais funcionalidades do que o `cmd`. Por exemplo, Powershell (já presente no Windows 10) ou [cmder](https://cmder.net/)).
 
 ## Por favor, cite o apoio em suas pesquisas
 
