@@ -23,10 +23,12 @@ ssh USUARIO@externo.ceunes.ufes.br -p 25000
 ssh USUARIO@172.20.110.9 -p 25000
 ~~~
 
+
 ### Configuração da máquina
 
 - 1 processador Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz 10 núcleos (20 threads), 160Gb RAM
 - Sistema GNU/Linux Ubuntu Server
+
 
 ### Acesso sem digitar senha (GNU/Linux)
 
