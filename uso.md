@@ -10,7 +10,7 @@ permalink: /uso
 
 Não há controle automático da fila de trabalhos a serem executados. Este controle é feito pelos próprios usuários, que são livres para acessarem a máquina quando necessitarem. Logo, conta-se com o bom senso para não disparar trabalhos concorrentes que interfiram na execução de processos já em andamento. Ademais, conta-se com o bom senso para não extrapolar a memória RAM disponível, evitando *swap* (em algumas aplicações, mesmo os 160Gb RAM disponíveis podem ser insuficientes).
 
-Ao logar-se, é mostrado na tela a carga de trabalho corrente.
+Ao logar-se, é exibida na tela a carga de trabalho corrente.
 
 Em períodos de ociosidade, o administrador do sistema pode reiniciar o equipamento para fins de atualização de *software*.
 
