@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comandos básicos
-nav_order: 2
+nav_order: 4
 description: ""
 permalink: /cmd
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abertura de contas
-nav_order: 6
+nav_order: 3
 description: ""
 permalink: /user
 ---
