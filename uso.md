@@ -14,7 +14,7 @@ Ao logar-se, é mostrado na tela a carga de trabalho corrente.
 
 Em períodos de ociosidade, o administrador do sistema pode reiniciar o equipamento para fins de atualização de *software*.
 
-Não é permitido o uso do equipamento para fins alheios à pesquisa acadêmica / IC.
+**Não é permitido o uso do equipamento para fins alheios à pesquisa acadêmica e IC.**
 
 
 ## Por favor, cite o apoio em suas pesquisas
