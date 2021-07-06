@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transferindo arquivos para o servidor
-nav_order: 6
+nav_order: 5
 description: ""
 permalink: /sftp
 ---
