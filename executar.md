@@ -31,4 +31,4 @@ Dentro do **htop**,
 
 ## Usuários de Windows
 
-Para os usuários do Windows que queiram usar o servidor, é recomendável um terminal com mais funcionalidades do que o `cmd`. Por exemplo, Powershell (já presente no Windows 10) ou [cmder](https://cmder.net/)).
+Para os usuários do Windows que queiram usar o servidor, é recomendável um terminal com mais funcionalidades do que o `cmd`. Por exemplo, Powershell (já presente no Windows 10) ou [cmder](https://cmder.net/).
