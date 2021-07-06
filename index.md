@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acesso ao servidor
+title: Sobre
 nav_order: 1
 description: ""
 permalink: /
@@ -9,9 +9,14 @@ permalink: /
 <!--## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO. Não há previsão para o retorno. Motivo: problemas nas instalações físicas do datacenter.-->
 <!--## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO. Previsão de retorno: 17/03. Motivo: problemas nas instalações físicas do datacenter.-->
 
-# Acesso ao servidor
+# Sobre
 
-O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas, o **“optimization_server”**. O equipamento está disponível a outros pesquisadores, bem como estudantes de iniciação científica.
+O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de suas pesquisas, o **“optimization_server”**. O equipamento foi adquirido com recursos da Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (processo FAPES 116/2019) via projeto de pesquisa submetido pelo grupo à edital universal.
+
+Outros pesquisadores e seus estudantes de iniciação científica podem ter acesso ao recurso para realização de suas pesquisas.
+
+
+### Acesso remoto
 
 - Acesso externo à UFES:
 ~~~
@@ -45,6 +50,7 @@ Dois arquivos serão criados na sua máquina: `id_rsa` (chave privada) e `id_rsa
 - Peça para exibir arquivos ocultos, e entre na pasta oculta `.ssh`. Caso não exista, crie-a;
 - Abra/Crie o arquivo `authorized_keys` e cole todo o conteúdo de `id_rsa.pub` em uma nova linha.
 - Se tudo deu certo, os próximos *logins* pelo terminal não pedirão senha.
+
 
 ### Acesso pelo Windows
 
