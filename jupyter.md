@@ -26,6 +26,8 @@ Você pode executar o `jupyter-lab`, que é um ambiente mais completo:
 jupyter-lab --no-browser --port 8892
 ~~~
 
+   **Observação:** você não precisa instalar o Jupyter em sua máquina.
+
 
 1. Ao executar o Jupyter no servidor, aparecerá na tela uma URL começando com `http://localhost:8892/` seguida de um código. Copie este *link* e cole no navegador da sua máquina. Se tudo funcionou, Jupyter será executado em seu navegador.
 
