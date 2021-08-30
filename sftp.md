@@ -12,7 +12,7 @@ Além da transferência via terminal com o comando **sftp**, você pode abrir su
 
 - Abra o gerenciador de Arquivos (nautilus) do seu Ubuntu (deve funcionar para outras distribuições GNU/Linux)
 - Clique em “Outros locais”
-- Na barra “Conectar ao servidor”, digite **sftp://USUARIO@ENDERECO:25000/home/USUARIO** onde ENDERECO varia se o acesso é interno ou externo à UFES (veja a seção "Acesso ao servidor").
+- Na barra “Conectar ao servidor”, digite **sftp://USUARIO@ENDERECO:25000/home/USUARIO** onde ENDERECO varia se o acesso é interno ou externo à UFES ([veja detalhes](/)).
 - Clique em “Conectar”
 
 ### Observações importantes:
