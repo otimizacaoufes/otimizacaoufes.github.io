@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Usando Jupyter
-nav_order: 1
+nav_order: 7
 description: ""
 permalink: /jupyter
 ---
