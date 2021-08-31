@@ -8,7 +8,9 @@ permalink: /jupyter
 
 # Usando Jupyter
 
-Jupyter é um ambiente gráfico para programação em Python, Julia e outras linguagens, que funciona no navegador de internet. É possível abrir o Jupyter em seu navegador local conectado ao servidor, e assim executar códigos no servidor atavés o seu navegador. Para tanto, siga os passos:
+Jupyter é um ambiente gráfico para programação em Python, Julia e outras linguagens, que funciona no navegador de internet. É possível abrir o Jupyter em seu navegador local conectado ao servidor, e assim executar códigos no servidor através o seu navegador. O Jupyter do servidor vem com os *kernels* para Python 3 e Julia.
+
+Passos:
 
 1. Acesse o servidor redirecionando uma porta ssh para sua máquina (localhost). Por exemplo, o comando abaixo redireciona a porta 8892:
 ~~~
@@ -17,7 +19,7 @@ ssh -L 8892:localhost:8892 USUARIO@ENDERECO -p 25000
 onde ENDERECO varia se o acesso é interno ou externo à UFES ([veja detalhes](/)). Note que o acesso à sua conta é feito normalmente adicionando as diretivas para redirecionamento da porta. Não confunda a porta ssh 8892 (que você pode escolher) com a porta 25000 de acesso ao servidor.
 
 
-1. **No servidor** execute `jupyter-notebook` apontando para a porta ssh escolhida e sem abrir o navegador web:
+1. **No servidor** execute `jupyter-notebook` apontando para a porta ssh escolhida e sem abrir o navegador:
 ~~~
 jupyter-notebook --no-browser --port 8892
 ~~~
@@ -33,8 +35,6 @@ jupyter-lab --no-browser --port 8892
 
    **ATENÇÃO:** Para que o Jupyter fique ativo em seu navegador, a conexão com o servidor deve ser mantida. Portanto, não feche o terminal ou deslogue da sua conta. Se o acesso for interrompido, seu Jupyter parará de funcionar e um novo acesso deverá ser feito.
 
-
-O Jupyter do servidor vem com os *kernels* para Python 3 e Julia.
 
 <!--1. O Jupyter vem com o *kernel* do Python 3 por padrão. **Se você quer usar o Julia no Jupyter**, você precisará copiar o *kernel* do Julia para sua pasta pessoal. Para tanto, execute **no servidor** os seguintes comandos em sequência:
 ~~~
