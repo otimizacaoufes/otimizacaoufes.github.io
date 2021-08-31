@@ -34,7 +34,7 @@ jupyter-lab --no-browser --port 8892
    **ATENÇÃO:** Para que o Jupyter fique ativo em seu navegador, a conexão com o servidor deve ser mantida. Portanto, não feche o terminal ou deslogue da sua conta. Se o acesso for interrompido, seu Jupyter parará de funcionar e um novo acesso deverá ser feito.
 
 
-1. O Jupyter vem com o *kernel* do Python 3 por padrão. **Se você quer usar o Julia no Jupyter**, você precisará copiar o *kernel* do Julia para sua pasta pessoal. Para tanto, execute **no servidor** os seguintes comandos em sequência:
+<!--1. O Jupyter vem com o *kernel* do Python 3 por padrão. **Se você quer usar o Julia no Jupyter**, você precisará copiar o *kernel* do Julia para sua pasta pessoal. Para tanto, execute **no servidor** os seguintes comandos em sequência:
 ~~~
 rm -rdf ~/.local/share/jupyter/
 mkdir -p ~/.local/share/jupyter
@@ -42,4 +42,4 @@ ln -s /opt/julia_jupyter_kernels/kernels/ ~/.local/share/jupyter
 ~~~
 Isso (re)criará um *link* para o diretório contendo as configurações de todos os *kernels* presentes no servidor. Após isso, (re)execute o Jupyter e verifique que Julia aparece nas opções.
 
-   **ATENÇÃO:** o procedimento acima deve ser feito uma única vez, ou sempre que você verifique não possuir todos os *kernels* atualizados em seu Jupyter.
+   **ATENÇÃO:** o procedimento acima deve ser feito uma única vez, ou sempre que você verifique não possuir todos os *kernels* atualizados em seu Jupyter.-->
