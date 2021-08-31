@@ -12,14 +12,14 @@ Jupyter é um ambiente gráfico para programação em Python, Julia e outras lin
 
 Passos:
 
-1. Acesse o servidor redirecionando uma porta ssh para sua máquina (localhost). Por exemplo, o comando abaixo redireciona a porta 8892:
+1. Acesse o servidor redirecionando uma porta TCP para sua máquina (localhost). Por exemplo, o comando abaixo redireciona a porta 8892:
 ~~~
 ssh -L 8892:localhost:8892 USUARIO@ENDERECO -p 25000
 ~~~
-onde ENDERECO varia se o acesso é interno ou externo à UFES ([veja detalhes](/)). Note que o acesso à sua conta é feito normalmente adicionando as diretivas para redirecionamento da porta. Não confunda a porta ssh 8892 (que você pode escolher) com a porta 25000 de acesso ao servidor.
+onde ENDERECO varia se o acesso é interno ou externo à UFES ([veja detalhes](/)). Note que o acesso à sua conta é feito normalmente adicionando as diretivas para redirecionamento da porta. Não confunda a porta TCP 8892 (que você pode escolher) com a porta ssh 25000 de acesso ao servidor.
 
 
-1. **No servidor** execute `jupyter-notebook` apontando para a porta ssh escolhida e sem abrir o navegador:
+1. **No servidor** execute `jupyter-notebook` apontando para a porta TCP escolhida e sem abrir o navegador:
 ~~~
 jupyter-notebook --no-browser --port 8892
 ~~~
