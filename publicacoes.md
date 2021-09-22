@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publicações
+title: Produção científica
 nav_order: 8
 description: ""
 permalink: /publicacoes
@@ -25,7 +25,7 @@ A seguir, alguns trabalhos beneficiados direta ou indiretamente pelo recurso com
 
 ## Softwares
 
-1. Scaled Algencan. [https://github.com/leonardosecchin/scaled-algencan]
+1. Scaled Algencan. <https://github.com/leonardosecchin/scaled-algencan>
 
 
 ## Outros
