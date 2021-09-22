@@ -3,7 +3,7 @@ layout: default
 title: Publicações
 nav_order: 8
 description: ""
-permalink: /software
+permalink: /publicacoes
 ---
 
 # Produção científica
