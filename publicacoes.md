@@ -15,7 +15,7 @@ A seguir, alguns trabalhos beneficiados direta ou indiretamente pelo recurso com
 
 <!-- 1. Oberlan. A forward-looking matheuristic approach for the multi-period two-dimensional non-guillotine cutting stock problem with usable leftovers -->
 <!-- 1. Extension of the delayed weighted gradient method for the minimization of strongly convex functions, 2021 -->
-<!-- 1. On the best achievable quality of limit points of augmented Lagrangian schemes, 2021 -->
+1. ANDREANI, R. ; HAESER, G. ; MITO, L. ; RAMOS, A. ; SECCHIN, L. D. . On the best achievable quality of limit points of augmented Lagrangian schemes. NUMERICAL ALGORITHMS, 2021.
 1. ANDREANI, R. ; HAESER, G. ; SCHUVERDT, M. L. ; SECCHIN, L. D. ; SILVA, P. J. S. . On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees. MATHEMATICAL PROGRAMMING COMPUTATION, 2021.
 1. ANDREANI, R. ; FUKUDA, E. H. ; HAESER, G. ; SANTOS, D. O. ; SECCHIN, L. D. . On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming. COMPUTATIONAL OPTIMIZATION AND APPLICATIONS, v. 79, p. 633-648, 2021.
 1. ANDREANI, R. ; CARDENAS, A. R. V. ; RAMOS, A. ; RIBEIRO, A. A. ; SECCHIN, L. D. . On the convergence of augmented Lagrangian strategies for nonlinear programming. IMA JOURNAL OF NUMERICAL ANALYSIS, 2021.
