@@ -8,7 +8,7 @@ permalink: /publicacoes
 
 # Produção científica
 
-A seguir, alguns trabalhos beneficiados direta ou indiretamente pelo recurso computacional durante a vigência do projeto (FAPES 116/2019).
+A seguir, trabalhos beneficiados direta ou indiretamente pelo recurso computacional durante a vigência do projeto FAPES 116/2019 (produzidos entre 2019 e 2021). A lista não contém trabalhos produzidos após este período, ainda que beneficiados pelo recurso.
 
 
 ## Artigos em revistas ou *preprints*
@@ -30,11 +30,12 @@ A seguir, alguns trabalhos beneficiados direta ou indiretamente pelo recurso com
 
 ## Outros
 
+1. TCC "Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala", aluno Elivandro Oliveira Grippa (UFES), 2021.
 1. TCC "Métodos de otimização para aprendizado de máquina supervisionado e aplicações", aluno Matheus Becali Rocha (UFES), 2021.
 1. Iniciação Científica "Variantes do método do gradiente para otimização irrestrita", aluno Elivandro Oliveira Grippa (UFES), 2021.
 1. Iniciação Científica "Introdução à otimização aplicada ao aprendizado de máquina supervisionado", aluno Matheus Becali Rocha (UFES), 2021.
 1. Iniciação Científica "Métodos e formulações para o problema de layout em fila dupla", aluno Manoel de Almeida Rocha Neto (UFES), 2020.
 
----
+<!-- --- -->
 
-Se utilizou o recurso e seu trabalho não se encontra nesta lista, envie um email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com a referência.
+<!-- Se utilizou o recurso e seu trabalho não se encontra nesta lista, envie um email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com a referência. -->
