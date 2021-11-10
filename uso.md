@@ -15,10 +15,10 @@ Ao logar-se, é exibida na tela a carga de trabalho corrente.
 Em períodos de ociosidade, o administrador do sistema pode reiniciar o equipamento para fins de atualização de *software*.
 
 
-### Não é permitido o uso do equipamento para fins alheios à pesquisa acadêmica e IC.
+### Não é permitido o uso do equipamento para fins alheios à pesquisa acadêmica/iniciação científica.
 
 
 ## Por favor, cite o apoio em suas pesquisas
 
-Se utilizar o equipamento em sua pesquisa, considere citar o apoio da FAPES nos trabalhos publicados (mais informações ao logar-se):
+Se utilizar o equipamento em sua pesquisa, considere citar o apoio da FAPES nos trabalhos publicados, sob o projeto 116/2019:
 - **FAPES 116/2019.**

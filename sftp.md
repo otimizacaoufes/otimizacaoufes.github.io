@@ -6,7 +6,7 @@ description: ""
 permalink: /sftp
 ---
 
-# Transferências de arquivos pelo ambiente gráfico do GNU/Linux
+# Transferência de arquivos pelo ambiente gráfico do GNU/Linux
 
 Além da transferência via terminal com o comando **sftp**, você pode abrir sua pasta remota no gerenciador de arquivos do GNU/Linux em modo gráfico. Os passos são os seguintes:
 

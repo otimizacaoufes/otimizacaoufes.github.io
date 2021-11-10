@@ -8,7 +8,7 @@ permalink: /jupyter
 
 # Usando Jupyter
 
-Jupyter é um ambiente gráfico para programação em Python, Julia e outras linguagens, que funciona no navegador de internet. É possível abrir o Jupyter em seu navegador local conectado ao servidor, e assim executar códigos no servidor através o seu navegador. O Jupyter do servidor vem com os *kernels* para Python 3 e Julia.
+Jupyter é um ambiente gráfico para programação em Python, Julia e outras linguagens, que funciona no navegador de internet. É possível abrir o Jupyter em seu navegador local conectado ao servidor, e assim executar códigos no servidor através do seu navegador. O Jupyter do servidor vem com os *kernels* para Python 3 e Julia.
 
 Passos:
 
@@ -23,12 +23,12 @@ onde ENDERECO varia se o acesso é interno ou externo à UFES ([veja detalhes](/
 ~~~
 jupyter-notebook --no-browser --port 8892
 ~~~
-Você pode executar o `jupyter-lab`, que é um ambiente mais completo:
+Você pode optar pelo `jupyter-lab`, que é um ambiente mais completo:
 ~~~
 jupyter-lab --no-browser --port 8892
 ~~~
 
-   **Observação:** você não precisa instalar o Jupyter em sua máquina.
+   **Observação:** você não precisa instalar o Jupyter/jupyter-lab em sua máquina.
 
 
 1. Ao executar o Jupyter no servidor, aparecerá na tela uma URL começando com `http://localhost:8892/` seguida de um código. Copie este *link* e cole no navegador da sua máquina. Se tudo funcionou, Jupyter será executado em seu navegador.

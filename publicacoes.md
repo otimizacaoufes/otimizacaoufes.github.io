@@ -8,7 +8,7 @@ permalink: /publicacoes
 
 # Produção científica
 
-A seguir, trabalhos beneficiados direta ou indiretamente pelo recurso computacional durante a vigência do projeto FAPES 116/2019 (produzidos entre 2019 e 2021). A lista não contém trabalhos produzidos após este período, ainda que beneficiados pelo recurso.
+A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso computacional durante a vigência do projeto FAPES 116/2019 (produzidos entre 2019 e 2021). Trabalhos produzidos após este período, ainda que beneficiados pelo recurso, não são listados.
 
 
 ## Artigos em revistas ou *preprints*
