@@ -11,7 +11,7 @@ permalink: /
 
 # Sobre
 
-O grupo de otimização da UFES ([grupo CNPq](dgp.cnpq.br/dgp/espelhogrupo/7657905567244335)), campus São Mateus, disponha de um computador de bom desempenho para realização de suas pesquisas, o **“optimization_server”**. O equipamento foi adquirido com recursos da Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (processo FAPES 116/2019) via projeto de pesquisa submetido pelo grupo à edital universal.
+O grupo de otimização da UFES ([grupo CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/7657905567244335)), campus São Mateus, disponha de um computador de bom desempenho para realização de suas pesquisas, o **“optimization_server”**. O equipamento foi adquirido com recursos da Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (processo FAPES 116/2019) via projeto de pesquisa submetido pelo grupo à edital universal.
 
 Outros pesquisadores e seus estudantes de iniciação científica podem ter acesso ao recurso para realização de suas pesquisas.
 
