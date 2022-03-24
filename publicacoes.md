@@ -30,7 +30,7 @@ A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso 
 
 ## Outros
 
-1. TCC "Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala", aluno Elivandro Oliveira Grippa (UFES), 2021.
+1. TCC "Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala", aluno Elivandro Oliveira Grippa (UFES), 2022.
 1. TCC "Métodos de otimização para aprendizado de máquina supervisionado e aplicações", aluno Matheus Becali Rocha (UFES), 2021.
 1. Iniciação Científica "Variantes do método do gradiente para otimização irrestrita", aluno Elivandro Oliveira Grippa (UFES), 2021.
 1. Iniciação Científica "Introdução à otimização aplicada ao aprendizado de máquina supervisionado", aluno Matheus Becali Rocha (UFES), 2021.
