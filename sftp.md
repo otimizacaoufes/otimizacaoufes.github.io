@@ -23,4 +23,4 @@ Além da transferência via terminal com o comando **sftp**, você pode abrir su
 
 ## Transferências de arquivos pelo Windows
 
-Para transferência de arquivos pelo Windows, você pode instalar algum programa que suporte **stfp**.
+Para transferência de arquivos pelo Windows, você pode instalar algum programa que suporte **sftp**.
