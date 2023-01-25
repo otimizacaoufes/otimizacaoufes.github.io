@@ -45,6 +45,7 @@ Caso necessite de algum pacote não instalado, solicite.
 - compiladores ifort e icc (Intel)
 - python 3 + pacotes (solicite a instalação de novos pacotes caso necessite)
 - bibliotecas [LAPACK](http://www.netlib.org/lapack/) e [(Open)BLAS](https://www.openblas.net/) (liblapack-dev e libopenblas-dev)
+- Intel oneAPI Math Kernel Library
 
 ### Outros softwares para otimização
 
