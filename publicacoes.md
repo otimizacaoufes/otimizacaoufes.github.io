@@ -50,7 +50,9 @@ A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso 
 1. TCC "Métodos de otimização para aprendizado de máquina supervisionado e aplicações", aluno Matheus Becali Rocha (UFES), 2021
 1. Iniciação Científica "Variantes do método do gradiente para otimização irrestrita", aluno Elivandro Oliveira Grippa (UFES), 2021
 1. Iniciação Científica "Introdução à otimização aplicada ao aprendizado de máquina supervisionado", aluno Matheus Becali Rocha (UFES), 2021
+1. Tese doutorado "Métodos multiescala para as equações de Navier-Stokes incompressíveis", Riedson Baptista (DMA/UFES), 2020
 1. Iniciação Científica "Métodos e formulações para o problema de layout em fila dupla", aluno Manoel de Almeida Rocha Neto (UFES), 2020
+1. Iniciação Científica "Métodos de solução para o problema de corte unidimensional com sobras aproveitáveis", aluno Uarlley do Nascimento Amorim (UFES), 2019
 
 ---
 
