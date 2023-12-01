@@ -8,7 +8,7 @@ permalink: /publicacoes
 
 # Produção científica
 
-A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso computacional (a lista é composta por dados repassados pelos docentes, e logo pode não ser completa).
+A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso computacional (a lista é composta por dados repassados pelos pesquisadores, e logo pode não ser completa).
 
 
 ## Artigos em revistas ou *preprints* (somente os produzidos entre 2019 e 2021)
