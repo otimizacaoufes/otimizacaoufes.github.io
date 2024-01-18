@@ -11,7 +11,7 @@ permalink: /publicacoes
 A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso computacional (a lista é composta por dados repassados pelos pesquisadores, e logo pode não ser completa).
 
 
-## Artigos em revistas ou *preprints* (somente os produzidos entre 2019 e 2021)
+## Artigos em revistas ou *preprints* (somente os produzidos entre 2019 e 2022)
 
 1. BIRGIN ; ROMÃO ; RONCONI. A forward-looking matheuristic approach for the multi-period two-dimensional non-guillotine cutting stock problem with usable leftovers. EXPERT SYSTEMS WITH APPLICATIONS, v. 223, p. 119866, 2023
 
