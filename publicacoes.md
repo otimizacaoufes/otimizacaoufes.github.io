@@ -11,11 +11,11 @@ permalink: /publicacoes
 A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso computacional (a lista é composta por dados repassados pelos pesquisadores, e logo pode não ser completa).
 
 
-## Artigos em revistas ou *preprints* (somente os produzidos entre 2019 e 2022)
+## Artigos em revistas ou *preprints* (somente os submetidos entre 2019 e 2022)
+
+1. ANDREANI, RAMOS, SECCHIN. Improving the global convergence of Inexact Restoration methods for constrained optimization problems. SIAM Journal on Optimization, 34(4):3429-3455, 2024
 
 1. BIRGIN ; ROMÃO ; RONCONI. A forward-looking matheuristic approach for the multi-period two-dimensional non-guillotine cutting stock problem with usable leftovers. EXPERT SYSTEMS WITH APPLICATIONS, v. 223, p. 119866, 2023
-
-1. ANDREANI, RAMOS, SECCHIN. Improving the global convergence of Inexact Restoration methods for constrained optimization problems (submetido), 2022
 
 1. ANDREANI ; OVIEDO ; RAYDAN ; SECCHIN. An extended delayed weighted gradient algorithm for solving strongly convex optimization problems. Journal of Computational and Applied Mathematics, 416:114525, 2022
 
@@ -39,7 +39,7 @@ A seguir, lista dos trabalhos beneficiados direta ou indiretamente pelo recurso 
 
 ## Outros
 
-<!-- 1. TCC "O método do gradiente espectral projetado e aplicações ao aprendizado de máquina supervisionado", aluno Pedro Henrique Fischer Ferreira (UFES), 2024 -->
+1. TCC "O método do gradiente espectral projetado e aplicações ao aprendizado de máquina supervisionado", aluno Pedro Henrique Fischer Ferreira (UFES), 2024
 1. Estágio supervisionado "Gerenciamento de estoque em uma empresa do ramo alimentício", aluno João Pedro Gouvea de Camargo (UFES), 2023
 1. TCC "Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas", aluno Wisley Kenede Pereira de Jesus (UFES), 2023
 1. Iniciação Científica "Métodos exatos para o problema de corte bidimensional com dimensões abertas", aluno João Victor do Rozário Recla (UFES), 2023
